@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
- 
+https://www.frontendmentor.io/solutions/qr-code-component-with-css-flexbox-IRz8A_yMjF
 
 ## Table of contents
 
@@ -29,8 +29,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/satryandi/FrontendMentor_ProductPreviewCardComponent
-- Live Site URL: https://satryandi-miniproject3.netlify.app/
+- Solution URL: https://github.com/satryandi/FrontendMentor_QrCodeComponent/tree/main
+- Live Site URL: https://satryandi-miniproject4.netlify.app/
 
 ## My process
 
